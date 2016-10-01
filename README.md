@@ -1,4 +1,4 @@
-# elevador
+# Elevador
 Aplicação que simula um elevador em JavaScript
 
 utilizando :

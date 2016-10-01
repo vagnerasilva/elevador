@@ -12,7 +12,7 @@ JavaScript
 - voce pode escolher o andar para no painel do elevador.
 - O elevador tem o tempo de viagem proporcional ao ponto de origem em que ele estava.
 - Caso alguem chame num andar mais abaixo do que outra chamada acima, ele atende a chamda do andar mais inferior.
-- Layout responsivo até Iphone 5s
+- Layout responsivo até Iphone 5s.
 
 
  
